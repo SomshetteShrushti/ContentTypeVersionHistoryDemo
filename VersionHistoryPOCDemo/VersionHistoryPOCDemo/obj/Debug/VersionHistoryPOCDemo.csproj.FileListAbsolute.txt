@@ -1,0 +1,11 @@
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\bin\Debug\VersionHistoryPOCDemo.exe.config
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\bin\Debug\VersionHistoryPOCDemo.exe
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\bin\Debug\VersionHistoryPOCDemo.pdb
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\obj\Debug\VersionHistoryPOCDemo.csprojAssemblyReference.cache
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\obj\Debug\VersionHistoryPOCDemo.exe.config
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\obj\Debug\VersionHistoryPOCDemo.csproj.CoreCompileInputs.cache
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\obj\Debug\VersionHistoryPOCDemo.csproj.CopyComplete
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\obj\Debug\VersionHistoryPOCDemo.exe
+D:\POCWorked\VersionHistoryPOCDemo\VersionHistoryPOCDemo\obj\Debug\VersionHistoryPOCDemo.pdb
